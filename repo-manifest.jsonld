@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/litestar-org/litestar-django/commit/a66be68559f23a2ff5227ad18ded3e1aa5e29b9e",
       "git:hexsha": "a66be68559f23a2ff5227ad18ded3e1aa5e29b9e",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.2.2"
     },
     {
