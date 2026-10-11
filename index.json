@@ -1,0 +1,11 @@
+{
+  "org": "litestar-org",
+  "repo": "litestar-django",
+  "versions": [
+    {
+      "commit": "a66be68559f23a2ff5227ad18ded3e1aa5e29b9e",
+      "tag": "v0.2.2",
+      "parsed_at": "2026-10-11T21:48:22.921743+00:00"
+    }
+  ]
+}
