@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/litestar-org/litestar-django/commit/a66be68559f23a2ff5227ad18ded3e1aa5e29b9e",
       "git:hexsha": "a66be68559f23a2ff5227ad18ded3e1aa5e29b9e",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.2.2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.2.2",
+      "repolex:parsedAt": "2026-10-11T21:48:22.803640+00:00"
     },
     {
       "@id": "https://repolex.ai/r/litestar-org/litestar-django/commit/d32fe9bf77f754c80bdb362a69e0347d83327c2a",
